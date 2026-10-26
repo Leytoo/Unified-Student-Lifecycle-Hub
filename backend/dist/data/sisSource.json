@@ -1,0 +1,74 @@
+[
+  {
+    "id": "SIS-1001",
+    "studentId": "2024-01001",
+    "fullName": "Juan Dela Cruz",
+    "email": "juan.delacruz@university.edu",
+    "dateOfBirth": "2003-04-12",
+    "phone": "+63-917-555-0101",
+    "nationalIdSsn": "098-45-7182",
+    "academicProgram": "BS Computer Science",
+    "enrollmentStatus": "Active",
+    "admittedYear": 2024
+  },
+  {
+    "id": "SIS-1002",
+    "studentId": "2024-01002",
+    "fullName": "maria santos y reyes",
+    "email": "maria.santos#invalid_email.com",
+    "dateOfBirth": "2002-11-25",
+    "phone": "0918-223-4411",
+    "nationalIdSsn": "112-98-3341",
+    "academicProgram": "BS CS",
+    "enrollmentStatus": "Active",
+    "admittedYear": 2024
+  },
+  {
+    "id": "SIS-1003",
+    "studentId": "2023-01003",
+    "fullName": "ALEXANDER CHEN",
+    "email": "achen@campus.net",
+    "dateOfBirth": "2001-08-19",
+    "phone": "+1-206-555-0144",
+    "nationalIdSsn": "450-12-8872",
+    "academicProgram": "Information Technology",
+    "enrollmentStatus": "Probation",
+    "admittedYear": 2023
+  },
+  {
+    "id": "SIS-1004",
+    "studentId": "2024-01004",
+    "fullName": "Lim, Beatrice Mae",
+    "email": "beatrice.lim@university.edu",
+    "dateOfBirth": "2003-01-30",
+    "phone": "N/A",
+    "nationalIdSsn": "781-34-6019",
+    "academicProgram": "BSIT",
+    "enrollmentStatus": "Active",
+    "admittedYear": 2024
+  },
+  {
+    "id": "SIS-1005",
+    "studentId": "2022-01005",
+    "fullName": "David Ronald Smith",
+    "email": "d.smith@university.edu",
+    "dateOfBirth": "2000-07-04",
+    "phone": "+1-415-555-9011",
+    "nationalIdSsn": "883-20-4159",
+    "academicProgram": "BS Computer Science",
+    "enrollmentStatus": "Suspended",
+    "admittedYear": 2022
+  },
+  {
+    "id": "SIS-1006",
+    "studentId": "2024-01001",
+    "fullName": "Juan D. Cruz",
+    "email": "juan.cruz@duplicate.org",
+    "dateOfBirth": "2003-04-12",
+    "phone": "+63-917-555-0101",
+    "nationalIdSsn": "098-45-7182",
+    "academicProgram": "BS Computer Science",
+    "enrollmentStatus": "Active",
+    "admittedYear": 2024
+  }
+]

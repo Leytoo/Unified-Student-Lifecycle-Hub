@@ -1,0 +1,115 @@
+[
+  {
+    "id": "LMS-3001",
+    "studentRefId": "2024-01001",
+    "studentNameOnLms": "JUAN DELA CRUZ",
+    "currentTerm": "1st Sem AY 2026-2027",
+    "courses": [
+      {
+        "courseCode": "CS101",
+        "title": "Data Structures & Algorithms",
+        "attendancePct": 96,
+        "assignmentAvg": 94,
+        "examGrade": 91
+      },
+      {
+        "courseCode": "CS102",
+        "title": "Database Systems & Governance",
+        "attendancePct": 98,
+        "assignmentAvg": 95,
+        "examGrade": 97
+      }
+    ],
+    "lmsActivityHours": 84,
+    "lastLogin": "2026-10-25T19:30:00Z"
+  },
+  {
+    "id": "LMS-3002",
+    "studentRefId": "2024-01002",
+    "studentNameOnLms": "Maria Santos",
+    "currentTerm": "1st Sem AY 2026-2027",
+    "courses": [
+      {
+        "courseCode": "CS101",
+        "title": "Data Structures & Algorithms",
+        "attendancePct": 88,
+        "assignmentAvg": 82,
+        "examGrade": 85
+      },
+      {
+        "courseCode": "MATH201",
+        "title": "Discrete Mathematics",
+        "attendancePct": 90,
+        "assignmentAvg": 79,
+        "examGrade": 80
+      }
+    ],
+    "lmsActivityHours": 62,
+    "lastLogin": "2026-10-24T14:15:00Z"
+  },
+  {
+    "id": "LMS-3003",
+    "studentRefId": "2023-01003",
+    "studentNameOnLms": "Alexander Chen",
+    "currentTerm": "1st Sem AY 2026-2027",
+    "courses": [
+      {
+        "courseCode": "IT301",
+        "title": "Cloud Infrastructure",
+        "attendancePct": 54,
+        "assignmentAvg": 61,
+        "examGrade": 58
+      },
+      {
+        "courseCode": "IT302",
+        "title": "Network Security & Cryptography",
+        "attendancePct": 60,
+        "assignmentAvg": 68,
+        "examGrade": 64
+      }
+    ],
+    "lmsActivityHours": 22,
+    "lastLogin": "2026-10-18T10:00:00Z"
+  },
+  {
+    "id": "LMS-3004",
+    "studentRefId": "2024-01004",
+    "studentNameOnLms": "Beatrice Mae Lim",
+    "currentTerm": "1st Sem AY 2026-2027",
+    "courses": [
+      {
+        "courseCode": "IT101",
+        "title": "Introduction to Web Development",
+        "attendancePct": 95,
+        "assignmentAvg": 98,
+        "examGrade": 96
+      },
+      {
+        "courseCode": "IT102",
+        "title": "Human-Computer Interaction",
+        "attendancePct": 92,
+        "assignmentAvg": 94,
+        "examGrade": 92
+      }
+    ],
+    "lmsActivityHours": 76,
+    "lastLogin": "2026-10-26T08:45:00Z"
+  },
+  {
+    "id": "LMS-3005",
+    "studentRefId": "2022-01005",
+    "studentNameOnLms": "David Smith",
+    "currentTerm": "1st Sem AY 2026-2027",
+    "courses": [
+      {
+        "courseCode": "CS401",
+        "title": "Senior Capstone Project",
+        "attendancePct": 40,
+        "assignmentAvg": 45,
+        "examGrade": 0
+      }
+    ],
+    "lmsActivityHours": 5,
+    "lastLogin": "2026-09-01T12:00:00Z"
+  }
+]

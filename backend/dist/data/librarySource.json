@@ -1,0 +1,47 @@
+[
+  {
+    "id": "LIB-901",
+    "studentId": "2024-01001",
+    "libraryCardNo": "LIB-CARD-8801",
+    "borrowedBooksCount": 1,
+    "overdueFines": 0.0,
+    "clearanceStatus": "Cleared",
+    "lastBorrowDate": "2026-10-20"
+  },
+  {
+    "id": "LIB-902",
+    "studentId": "2024-01002",
+    "libraryCardNo": "LIB-CARD-8802",
+    "borrowedBooksCount": 0,
+    "overdueFines": 0.0,
+    "clearanceStatus": "Cleared",
+    "lastBorrowDate": "2026-09-15"
+  },
+  {
+    "id": "LIB-903",
+    "studentId": "2023-01003",
+    "libraryCardNo": "LIB-CARD-7744",
+    "borrowedBooksCount": 3,
+    "overdueFines": 45.5,
+    "clearanceStatus": "Hold - Financial",
+    "lastBorrowDate": "2026-10-02"
+  },
+  {
+    "id": "LIB-904",
+    "studentId": "2024-01004",
+    "libraryCardNo": "LIB-CARD-8804",
+    "borrowedBooksCount": 0,
+    "overdueFines": 0.0,
+    "clearanceStatus": "Cleared",
+    "lastBorrowDate": "2026-10-14"
+  },
+  {
+    "id": "LIB-905",
+    "studentId": "2022-01005",
+    "libraryCardNo": "LIB-CARD-6621",
+    "borrowedBooksCount": 2,
+    "overdueFines": 120.0,
+    "clearanceStatus": "Hold - Overdue Items",
+    "lastBorrowDate": "2026-05-10"
+  }
+]
