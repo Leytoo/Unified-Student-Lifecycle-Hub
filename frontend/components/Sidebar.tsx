@@ -13,6 +13,7 @@ import {
   ShieldAlert,
   Sparkles,
   Database,
+  Receipt
 } from 'lucide-react';
 import { useAuth } from '../context/AuthContext';
 import { ROLE_LABELS } from '../constants';
@@ -24,6 +25,7 @@ const navItems = [
   { href: '/dqm', label: 'DQM Workbench', icon: ShieldCheck, description: 'Quality Management' },
   { href: '/audit', label: 'Audit Trail', icon: FileText, description: 'Compliance Ledger' },
   { href: '/governance', label: 'Governance Policies', icon: BookOpen, description: 'Policy Catalog' },
+  { href: '/accounting', label: 'Accounting & Tuition', icon: Receipt, description: 'Financial Ledger' },
 ];
 
 export default function Sidebar() {
@@ -80,16 +82,14 @@ export default function Sidebar() {
             <Link
               key={item.href}
               href={item.href}
-              className={`group flex items-center gap-3 px-3 py-2.5 rounded-xl text-sm font-medium transition-all duration-150 ${
-                isActive
-                  ? 'bg-indigo-600/25 text-white border border-indigo-500/30 shadow-sm shadow-indigo-500/10'
-                  : 'text-slate-400 hover:text-white hover:bg-white/8'
-              }`}
+              className={`group flex items-center gap-3 px-3 py-2.5 rounded-xl text-sm font-medium transition-all duration-150 ${isActive
+                ? 'bg-indigo-600/25 text-white border border-indigo-500/30 shadow-sm shadow-indigo-500/10'
+                : 'text-slate-400 hover:text-white hover:bg-white/8'
+                }`}
               style={!isActive ? {} : {}}
             >
-              <div className={`w-7 h-7 rounded-lg flex items-center justify-center transition-all ${
-                isActive ? 'bg-indigo-500/30' : 'bg-white/5 group-hover:bg-white/10'
-              }`}>
+              <div className={`w-7 h-7 rounded-lg flex items-center justify-center transition-all ${isActive ? 'bg-indigo-500/30' : 'bg-white/5 group-hover:bg-white/10'
+                }`}>
                 <Icon className={`w-3.5 h-3.5 ${isActive ? 'text-indigo-300' : 'text-slate-500 group-hover:text-slate-300'}`} />
               </div>
               <div className="min-w-0">
